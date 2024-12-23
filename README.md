@@ -82,17 +82,17 @@ The application provides the following functionalities:
 This project is licensed By us.
 
 ## Contact Information
-- Ahmed Abdulghany
+Ahmed Abdulghany
 - **Email**: ahmedabdulghany7@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ahmedabdulghany/)
 - **GitHub**: [GitHub Profile](https://github.com/ahmedabdulghany7)
 
-- Belal Fathy
+Belal Fathy
 - **Email**: fathybelalfathy@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/belal-fathy-661821217/)
 - **GitHub**: [GitHub Profile](https://github.com/Belal-fathy)
-- 
-- Amr El Amawy
+
+Amr El Amawy
 - **Email**: amawyamr@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/amr-el-amawy-1177452ba/)
 - **GitHub**: [GitHub Profile](https://github.com/AmrAmawy-del)
