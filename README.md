@@ -76,9 +76,9 @@ The application provides the following functionalities:
 - 📝 Submit a pull request.
 
 ## Authors
-- 👨‍🔧 Ahmed Abdulghany
-- 👨‍🔧 Belal Fathy
-- 👨‍🔧 Amr El Amawy
+- Ahmed Abdulghany
+- Belal Fathy
+- Amr El Amawy
 
 ## License
 This project is licensed by us.
