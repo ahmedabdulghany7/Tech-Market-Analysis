@@ -83,7 +83,7 @@ The application provides the following functionalities:
 ## License
 This project is licensed by us.
 
-## Contact Information
+## Contributors
 ✉ Ahmed Abdulghany
 - **Email**: ahmedabdulghany7@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ahmedabdulghany/)
