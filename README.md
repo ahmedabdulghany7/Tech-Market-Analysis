@@ -99,3 +99,7 @@ This project is licensed by us.
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/amr-el-amawy-1177452ba/)
 - **GitHub**: [GitHub Profile](https://github.com/AmrAmawy-del)
 
+✉ Mahmoud Galal
+- **Email**: gomaa5576@gmail.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mahmoud-galal143/)
+- **GitHub**: [GitHub Profile](https://github.com/mahmoud5576)
